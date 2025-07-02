@@ -11,6 +11,13 @@ This project focuses on **aspect-based sentiment analysis** of news articles fro
 
 ---
 
+## 🖼️ Output Visualization
+**Negative Person Sentiment Extracted:**
+
+- Negative Person Sentiment Extracted 
+  <img src= "Negative_persons_extracted.png" alt="picture" width="600" />
+
+
 ## 🧠 Methodology
 
 ### 🔹 A) Web Scraping
