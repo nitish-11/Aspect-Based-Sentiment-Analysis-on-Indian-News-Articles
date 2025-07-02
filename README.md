@@ -83,10 +83,23 @@ This project focuses on **aspect-based sentiment analysis** of news articles fro
 
 ---
 
+
+### ✅ Output Summary
+| Metric                      | Value   |
+|----------------------------|---------|
+| Total articles scraped     | 126     |
+| Crime-related articles     | 45      |
+| Total named profiles       | 301     |
+| Negative profiles extracted| 62      |
+
+---- 
+
 ## 📁 Output Files
 
 - `all_profiles_sentiment_output.xlsx`: All extracted person-sentiment profiles  
 - `negative_profiles_sentiment_output.xlsx`: Subset with **negative sentiment**
+
+
 
 ---
 
